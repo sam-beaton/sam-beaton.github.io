@@ -3,11 +3,11 @@ body {
     margin: 0;
     font-family: 'Arial', sans-serif;
     color: #fff;
-    background-color: #002a4d; /* Dark Navy Blue Background */
+    background-color: #001a33; /* Darker Navy Blue Background */
 }
 
 header {
-    background-color: #003366; /* Slightly lighter navy blue */
+    background-color: #002244; /* Even Darker Navy Blue */
     padding: 1rem;
     display: flex;
     justify-content: space-between;
