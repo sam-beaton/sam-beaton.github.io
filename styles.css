@@ -1,7 +1,7 @@
 body {
     margin: 0;
     padding: 0;
-    font-family: 'Arial', sans-serif;
+    font-family: 'Raleway', sans-serif; /* Updated to Raleway */
     background-color: #002a4d; /* Dark Navy Blue Background */
     display: flex;
     flex-direction: column;
@@ -24,7 +24,7 @@ header {
 }
 
 h1 {
-    font-family: 'Helvetica', sans-serif;
+    font-family: 'Raleway', sans-serif; /* Updated to Raleway */
     font-size: 1.5rem;
     color: #fff;
     margin: 0;
@@ -45,6 +45,7 @@ nav ul li a {
     color: #fff;
     text-decoration: none;
     font-size: 1rem;
+    font-family: 'Raleway', sans-serif; /* Updated to Raleway */
 }
 
 main {
@@ -72,4 +73,5 @@ p {
     color: #fff;
     font-size: 1.5rem;
     margin: 0;
+    font-family: 'Raleway', sans-serif; /* Updated to Raleway */
 }
